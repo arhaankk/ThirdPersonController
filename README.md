@@ -26,7 +26,7 @@ This project is a simple third-person character controller implemented as part o
 - 🛠 **Code Maintainability**: Followed Single Responsibility Principle and maintained a consistent coding style.
 
 ## Demo
-[![Gameplay Demo](https://youtu.be/fSc8qPDa0WI)
+[Gameplay Demo](https://youtu.be/fSc8qPDa0WI)
 
 ## Installation & Usage
 1. Clone the repository:
